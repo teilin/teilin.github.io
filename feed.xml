@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teis Lindemark</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>My name is Teis Lindemark and I am a software developer, beer home brewer and an Agent backer. Disclaimer: The opinions expressed on this blog are my own personal and do not represent my employer&#39;s view in any way. 
 </description>
     <link>http://www.teilin.net/</link>
     <atom:link href="http://www.teilin.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jul 2015 21:23:09 +0200</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2015 21:23:09 +0200</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2015 22:26:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2015 22:26:00 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
