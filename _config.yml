@@ -2,9 +2,9 @@
 title: Teis Lindemark
 email: teis.lindemark@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Teis Lindemark and I am a software developer, beer home brewer and an Agent backer.
+  Disclaimer: The opinions expressed on this blog are my own personal and do not
+  represent my employer's view in any way. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.teilin.net" # the base hostname & protocol for your site
 twitter_username: TeisLindemark
