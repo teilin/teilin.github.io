@@ -4,10 +4,10 @@
     <title>Teis Lindemark</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://teilin.net/</link>
-    <atom:link href="http://teilin.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jul 2015 20:46:06 +0200</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2015 20:46:06 +0200</lastBuildDate>
+    <link>http://www.teilin.net/</link>
+    <atom:link href="http://www.teilin.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Jul 2015 20:50:40 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2015 20:50:40 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 13 Jul 2015 22:38:14 +0200</pubDate>
-        <link>http://teilin.net/jekyll/update/2015/07/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://teilin.net/jekyll/update/2015/07/13/welcome-to-jekyll.html</guid>
+        <link>http://www.teilin.net/jekyll/update/2015/07/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.teilin.net/jekyll/update/2015/07/13/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
